@@ -24,7 +24,7 @@ p {
 /* firstview */
 .firstview {
     height: 610px;
-    background-image: url(../images/background-image.png);
+    background-image: url(background-image.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -118,7 +118,7 @@ li {
 
 /* footer */
 footer {
-    background-image: url(../images/background-image2.jpg);
+    background-image: url(background-image2.jpg);
     height: 660px;
     background-size: cover;
     background-repeat: no-repeat;
